@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = axios.create({ baseURL: 'https://black-pumps.cyclic.app' })
+const API = axios.create({ baseURL: 'https://stackoverflow-server-1hzw.onrender.com/' })
 
 
 
