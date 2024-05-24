@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = axios.create({ baseURL: 'https://stackoverflow-server-1hzw.onrender.com/' })
+const API = axios.create({ baseURL: 'https://stackoverflow-server-8syy.onrender.com/' })
 
 
 
